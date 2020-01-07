@@ -1,0 +1,14 @@
+{
+  "name": "web3api2020",
+  "version": "1.0.0",
+  "description": "PHP REST API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MOHSEN ALI MOHSEN",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
